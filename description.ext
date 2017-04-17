@@ -1,0 +1,13 @@
+#define TB_loadingScreen_imagePath "tb_EastVSWest_loadingScreen.jpg"
+
+onLoadName="A&D Black Mountain";
+overviewPicture = "tb_EastVSWest_loadingScreen.jpg";
+author="akm";
+onLoadMission="Tactical Battlefield: Attack and Defend";
+
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Black_Mountain">
+
+	<Key ID="STR_TB_missionTitle_TB_Black_Mountain">
+		<Original>Black_Mountain</Original>
+		<English>Black_Mountain</English>
+		<German>Black_Mountain</German>
+		<Italian>Black_Mountain</Italian>
+		<Spanish>Black_Mountain</Spanish>
+		<French>Black_Mountain</French>
+		<Czech>Black_Mountain</Czech>
+		<Russian>Black_Mountain</Russian>
+		<Polish>Black_Mountain</Polish>
+		<Hungarian>Black_Mountain</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_OP_Grey_Storm">
+		<Original>TacBF A&amp;S[T-10]: Black_Mountain</Original>
+		<English>TacBF A&amp;S[T-10]: Black_Mountain</English>
+		<German>TacBF A&amp;S[T-10]: Black_Mountain</German>
+		<Italian>TacBF A&amp;S[T-10]: Black_Mountain</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Black_Mountain</Spanish>
+		<French>TacBF A&amp;S[T-10]: Black_Mountain</French>
+		<Czech>TacBF A&amp;S[T-10]: Black_Mountain</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Black_Mountain</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Black_Mountain</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Black_Mountain</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
